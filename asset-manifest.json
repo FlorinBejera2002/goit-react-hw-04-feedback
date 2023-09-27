@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FlorinBejera2002/goit-react-hw-04-feedback/static/css/main.b5320759.css",
+    "main.js": "/FlorinBejera2002/goit-react-hw-04-feedback/static/js/main.589d839f.js",
+    "index.html": "/FlorinBejera2002/goit-react-hw-04-feedback/index.html",
+    "main.b5320759.css.map": "/FlorinBejera2002/goit-react-hw-04-feedback/static/css/main.b5320759.css.map",
+    "main.589d839f.js.map": "/FlorinBejera2002/goit-react-hw-04-feedback/static/js/main.589d839f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5320759.css",
+    "static/js/main.589d839f.js"
+  ]
+}
